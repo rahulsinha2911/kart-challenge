@@ -1,0 +1,14 @@
+READ_FROM_SERVER = true
+GO_PORT = 8080
+
+PRODUCT_LIST_ENDPOINT = "https://orderfoodonline.deno.dev/api/product"
+
+PRODUCT_LIST_ENDPOINT_TIMEOUT_SEC = 10
+
+PRODUCT_DETAIL_ENDPOINT = "https://orderfoodonline.deno.dev/api/product/"
+
+PRODUCT_DETAIL_ENDPOINT_TIMEOUT_SEC = 10
+
+ORDER_ENDOINT =  "https://orderfoodonline.deno.dev/api/order"
+ORDER_ENDOINT_TIMEOUT_SEC  = 10
+ORDER_SECERT_TOKEN =  "YOUR_SECRET_TOKEN"
